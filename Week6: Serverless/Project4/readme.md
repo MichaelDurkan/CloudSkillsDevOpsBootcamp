@@ -1,4 +1,4 @@
-# This readme details the instructions for creating your Lambda function
+### This readme details the instructions for creating your Lambda function
 
 1. Run ``npm install -g serverless``. This will install the "Serverless Framework" 
 2. Confirm you are in the correct directory where your code is going to be stored
